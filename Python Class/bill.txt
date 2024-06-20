@@ -1,0 +1,4 @@
+apple 20 2 22
+ball 30 2 32
+appp 1 2 3
+dewda 23 3 26
